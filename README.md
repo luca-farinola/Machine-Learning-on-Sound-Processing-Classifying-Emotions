@@ -9,14 +9,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-We have used the AC model to explor speech recognition. In particular we have used  
+We have used mathematical model that resemble the tonotopic organizzation of the cochlear to explore speech recognition. In particular we have used .wav files to input recording from actors. 
+Machine learning approaches are used to classify 5 emotions [Anger, Fear, Happiness, Disust, Sadness]. Specific channels (Neural populations firing at specific frequences) are used as features and filtered out to simulate cochlear implant. 
 
 Bird eye view of the project:
-* Differential expression analysis with limma 
-* Co-epression  Network
-* Switch Miner algorithm
+* Model simulation 
+* Machine Learning and feature selection 
+* Cochlear implant vs Optimized Cochlear implant construction
   
-Switch Miner algorithm is described in the following article : 
+AC model is described in the following article : ... 
 
 <!-- DATA -->
 ### Data
