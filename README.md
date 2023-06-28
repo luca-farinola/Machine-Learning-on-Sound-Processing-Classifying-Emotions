@@ -9,8 +9,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-RNA sequencing data are used to construct protein correlation network and select nodes with interesting mathematical property (and therefore of biological interest) 
-we have downloaded and edited for our pourpose the code from the following github repo : 
+We have used the AC model to explor speech recognition. In particular we have used  
 
 Bird eye view of the project:
 * Differential expression analysis with limma 
@@ -21,7 +20,6 @@ Switch Miner algorithm is described in the following article :
 
 <!-- DATA -->
 ### Data
-
 Data directory is needed to run the files. Those data include gene expression count data, 
 metadata with patient information, gene lenght for FPKM normalizzation. Those data are uploaded in zenodo at link below.  
 
