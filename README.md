@@ -17,7 +17,7 @@ Bird eye view of the project:
 * Machine Learning and feature selection 
 * Cochlear implant vs Optimized Cochlear implant construction
   
-AC model is described in the following article : ... 
+AC model is described in the following article : [Spectro-Temporal Processing in a Two-Stream Computational Model of Auditory Cortex](https://www.frontiersin.org/articles/10.3389/fncom.2019.00095/full)
 
 <!-- DATA -->
 ### Data
