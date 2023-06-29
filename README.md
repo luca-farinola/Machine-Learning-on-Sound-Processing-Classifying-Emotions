@@ -1,4 +1,4 @@
- <h3 align="center">Exploring Sound Processing and Cochlear Implant Optimization: Integrating Computational Models and Machine Learning for Emotion Classification
+<h3 align="center">Exploring Sound Processing and Cochlear Implant Optimization: Integrating Computational Models and Machine Learning for Emotion Classification
 </h3>
 
   <p align="center">
@@ -9,7 +9,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-We have used mathematical model that resemble the tonotopic organizzation of the cochlear to explore speech recognition. In particular we have used .wav files to input recording from actors. 
+We have used mathematical model that resemble the tonotopic organizzation of the cochlea to explore speech recognition. In particular we have used .wav files to input recording from actors. 
 Machine learning approaches are used to classify 5 emotions [Anger, Fear, Happiness, Disust, Sadness]. Specific channels (Neural populations firing at specific frequences) are used as features and filtered out to simulate cochlear implant. 
 
 Bird eye view of the project:
@@ -21,10 +21,6 @@ AC model is described in the following article : ...
 
 <!-- DATA -->
 ### Data
-Data directory is needed to run the files. Those data include gene expression count data, 
-metadata with patient information, gene lenght for FPKM normalizzation. Those data are uploaded in zenodo at link below.  
+We have used the Acted Emotional Speech Dynamic Database – AESDD 
 
-</a>
-<a href="https://doi.org/10.5281/zenodo.7790931">
-        <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7790931.svg" alt="DOI">
-    </a>
+[Folder Name](https://mega.nz/folder/0ShVXY7C#-73kVoK05OjTPEA95UUvMw)
