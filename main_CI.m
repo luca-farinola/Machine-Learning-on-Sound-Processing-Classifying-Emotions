@@ -4,13 +4,13 @@ em = 'sadness';
 dirPath = strcat('/Users/alejandroadriaquelozano/Documents/Systems Biology/Project 2/',em,'/');  % Directory path to the "anger" folder
 
 % Getting data for CI simulation
-% selected_channels= readtable('CI.xlsx');
-% 
-%  CI_c= selected_channels.c;
-%  CI_c=CI_c(~isnan(CI_c));
-% 
-%  CI_d= selected_channels.d;
-%  CI_d=CI_d(~isnan(CI_d));
+selected_channels= readtable('CI.xlsx');
+ 
+  CI_c= selected_channels.c;
+  CI_c=CI_c(~isnan(CI_c));
+ 
+  CI_d= selected_channels.d;
+  CI_d=CI_d(~isnan(CI_d));
 
 % Get a list of all WAV files in the directory
 fileList = dir(fullfile(dirPath, '*.wav'));
