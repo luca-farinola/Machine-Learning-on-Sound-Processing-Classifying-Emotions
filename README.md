@@ -1,4 +1,4 @@
-<h3 align="center">Exploring Sound Processing and Cochlear Implant Optimization: Integrating Computational Models and Machine Learning for Emotion Classification
+<h3 align="center">Exploring Sound Processing and Cochlear Implant Optimization: Integrating Computational Models and Machine Learning for Emotions Classification
 </h3>
 
   <p align="center">
