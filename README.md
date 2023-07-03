@@ -19,6 +19,9 @@ Bird eye view of the project:
   
 AC model is described in the following article : [Spectro-Temporal Processing in a Two-Stream Computational Model of Auditory Cortex](https://www.frontiersin.org/articles/10.3389/fncom.2019.00095/full)
 
+
+<img src="Immages/imm.png" widht = "400" height= "400">
+
 <!-- DATA -->
 ### Data
 We have used the [Acted Emotional Speech Dynamic Database](https://mega.nz/folder/0ShVXY7C#-73kVoK05OjTPEA95UUvMw)
