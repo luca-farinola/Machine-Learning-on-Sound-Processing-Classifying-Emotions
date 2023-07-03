@@ -25,4 +25,5 @@ AC model is described in the following article : [Spectro-Temporal Processing in
 <!-- DATA -->
 ### Data
 We have used the [Acted Emotional Speech Dynamic Database](https://mega.nz/folder/0ShVXY7C#-73kVoK05OjTPEA95UUvMw)
+in the folder *data* model output is found to run classification  
 
