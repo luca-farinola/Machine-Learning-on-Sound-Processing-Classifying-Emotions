@@ -25,9 +25,11 @@ AC model is described in the following article : [Spectro-Temporal Processing in
 <!-- SCRIPT -->
 ### Script
 
-Files to run the model
-
-
+Files to run the model (MATLAB): main (for the three conditions)
+Files to create matrix (MATLAB): merge
+File to visualize heatmap (R): heatmap 
+Files to rum ML results (Python): Machine_Learning_emotion
+Files to compare performances (Python) : 2_comparison (Fast vs Slow) 3_comparison (Healty vs CI vs optimized_CI)
 
 <!-- DATA -->
 ### Data
